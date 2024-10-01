@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/abdullah-shehata-05445b294/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
   </p>
   
-  <img src="https://github.com/abdo528" align="right" width="25%"/>
+  <img src="https://github.com/abdo528/blob/master/profile-img.png" align="right" width="25%"/>
 
 - 🔭 I'm a software developer 
 - 🌱 I’m currently learning
