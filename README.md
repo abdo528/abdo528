@@ -34,6 +34,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jquery" height="30" alt="jquery logo" />
   <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma logo" height="30"/>
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vs code logo" />
